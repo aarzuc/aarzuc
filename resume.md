@@ -1,4 +1,3 @@
-Name: Aarzu Choudhary 
-Education:
-First-year at Northeastern University
-Graduate from Deep Run High School
+Aarzu Choudhary
+Data Science and Business Administration major at Northeastern University
+Expected Graduation date: May 2027
