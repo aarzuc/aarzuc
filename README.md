@@ -1,4 +1,7 @@
-### Hi there 👋 My name is Aarzu Choudhary and I am a first-year at Northeastern University. 
+## Hi there! My name is Aarzu Choudhary and I am a second-year at Northeastern University. 👋
+## About Me 🌟
+### I’m passionate about using data to uncover meaningful insights and drive impactful solutions. My projects focus on leveraging data to address real-world challenges and explore innovative approaches. Particularly excited about the intersection of sustainability, AI, and fashion, and how these areas can work together to shape a more sustainable future. 🌍
+### Looking to connect or collaborate? Send me a message via linkedin or at choudhary.aar@northeastern.edu 💬
 
 <!--
 **aarzuc/aarzuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
